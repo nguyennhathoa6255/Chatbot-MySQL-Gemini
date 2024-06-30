@@ -2,8 +2,8 @@
 
 This project develops a chatbot that interprets natural language queries, generates SQL queries, and fetches results from a SQL database in an intuitive, user-friendly way. It leverages the Gemini-Pro model and integrates with the Streamlit GUI for an enhanced interactive experience.
 
-## Final Chatbot
-![Chatbot](./docs/chatbot-home.png)
+## Final Chatbot: [Here](https://chatbot-mysql-gemini.streamlit.app/?embed_options=light_theme) 
+![Chatbot](./docs/chatbot.png)
 
 ## Database
 The [Chinook](https://githuz`b.com/lerocha/chinook-database) data model represents a digital media store, including tables for artists, albums, media tracks, invoices and customers.    
@@ -51,7 +51,7 @@ Refer to the following diagram to understand how the different chains and compon
 | port  | 3306  | 20282  |  
 | database  | chinook  |  railway (chinook) |  
 
-*[Chatbot](https://chatbot-mysql-gemini.streamlit.app/) has been deployed from Railway database*
+*[Chatbot](https://chatbot-mysql-gemini.streamlit.app/?embed_options=light_theme) has been deployed from Railway database*
 
 ---
 
