@@ -47,8 +47,8 @@ Refer to the following diagram to understand how the different chains and compon
 |---|---|---|
 | user  |  root |   root|  
 | password | admin  | (secret)  | 
-| host  | localhost  | mysql.railway.internal  |  
-| port  | 3306  | 3306  |  
+| host  | localhost  | junction.proxy.rlwy.net  |  
+| port  | 3306  | 45109  |  
 | database  | chinook  |  railway (chinook) |  
 
 *[Chatbot](https://chatbot-mysql-gemini.streamlit.app/?embed_options=light_theme) has been deployed from Railway database*
